@@ -152,8 +152,3 @@ Ce cours est conçu pour Marco et Bilel qui ont une solide expérience en dével
 - [Documentation officielle Python](https://docs.python.org/3/)
 - Tutoriels avancés sur NumPy et Pandas pour la manipulation de données financières
 - Exemples de projets Python orientés finance
-
----
-
-### Conclusion :
-Ce cours permettra aux développeurs expérimentés de transférer facilement leurs compétences de JAVA, THALER et SQL vers Python, tout en utilisant la puissance de Python pour automatiser, manipuler et analyser des données dans un contexte financier.
