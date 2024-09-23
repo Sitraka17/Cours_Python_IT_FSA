@@ -4,8 +4,8 @@
 Ce cours est conçu pour Marco et Bilel qui ont une solide expérience en développement avec JAVA, THALER, et SQL Developer Oracle. Il offre une introduction pratique à Python, en mettant en évidence les différences et similitudes avec ces technologies tout en abordant les fonctionnalités puissantes et modernes de Python.
 
 ### Pré-requis :
-- 20 ans d'expérience en JAVA, THALER et SQL Developer Oracle.
-- Compréhension approfondie des concepts de programmation orientée objet (POO), des bases de données relationnelles, et des transactions financières.
+- vous avez genre 20 ans d'expérience en JAVA, THALER et SQL Developer Oracle.
+- Et une compréhension approfondie des concepts de programmation orientée objet (POO), des bases de données relationnelles, et des transactions financières.
 
 ---
 
