@@ -153,7 +153,3 @@ def dire_bonjour():
 
 dire_bonjour()
 ```
-
-## Conclusion
-
-Ce cours couvre les bases de Python en mettant l'accent sur les différences avec Java et en montrant comment les compétences en SQL peuvent être appliquées. Pour approfondir, explorez des bibliothèques spécifiques à vos besoins métier, comme pandas pour l'analyse de données ou Django pour le développement web.
