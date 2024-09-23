@@ -19,7 +19,7 @@ Ce cours est conçu pour Marco et Bilel qui ont une solide expérience en dével
    **Exemple simple en Python :**
    ```python
    # Hello World en Python
-   print("Hello, World!")
+   print("Hello, IT-FSA!")
    ```
 
    **Comparaison avec JAVA :**
